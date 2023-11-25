@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avneet Kaur</h1>
 <p><img align="right" src="Cool Kids - Standing.png" alt="nandinisetiavector" /></p>
-<h3 align="center">A passionate software engineer from India.</h3>
+<h3 align="center">A passionate computer science student from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandinisetia&label=Profile%20views&color=0e75b6&style=flat" alt="nandinisetia" /> </p>
 
