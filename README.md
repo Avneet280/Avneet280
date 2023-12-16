@@ -8,6 +8,7 @@
 - 🌱 I have proficiency in **C, C++ and Python language.**
 - 🔭 I have learned **Object Oriented Programming, Operating System, Database & Management, Data Structures & Algorithms, and Computer Networks** as a part of my coursework.
 - 💻 I have explored many different fields like **Machine Learning, Computer Vision and Game Development**, most of my projects are available on github.
+- 👨‍💻 I have also worked on **HTML, CSS, JavaScript, Flask, MySQL and android app development.** 
 - 🔭 You can contact me: **avneekaur08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
