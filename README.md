@@ -7,8 +7,8 @@
 - 👨‍💻 I’m Final year Computer Engineering Student at **Thapar University.**
 - 🌱 I have proficiency in **C, C++ and Python language.**
 - 🔭 I have learned **Object Oriented Programming, Operating System, Database & Management, Data Structures & Algorithms, and Computer Networks** as a part of my coursework.
-- 💻 Most of my projects are available on <a href="https://github.com/Avneet280">**Github**</a>
-- 📫 You can contact me: **avneekaur08@gmail.com**
+- 💻 I have explored many different fields like **Machine Learning, Computer Vision and Game Development**, most of my projects are available on github.
+- 🔭 You can contact me: **avneekaur08@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
